@@ -1,0 +1,32 @@
+{
+  "source": "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Herricks Hub"
+      },
+      {
+        "comment": "",
+        "key": "GPA Calculator"
+      },
+      {
+        "comment": "",
+        "key": "Class Notes"
+      },
+      {
+        "comment": "",
+        "key": "Teacher Emails"
+      },
+      {
+        "comment": "",
+        "key": "Clubs"
+      },
+      {
+        "comment": "",
+        "key": "Zhou Tutoring"
+      }
+    ]
+  },
+  "version": 1
+}

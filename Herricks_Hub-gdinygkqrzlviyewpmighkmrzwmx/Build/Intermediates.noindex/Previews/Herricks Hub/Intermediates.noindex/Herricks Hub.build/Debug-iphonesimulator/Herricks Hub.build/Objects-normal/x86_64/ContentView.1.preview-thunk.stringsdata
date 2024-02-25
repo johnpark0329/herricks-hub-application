@@ -1,0 +1,32 @@
+{
+  "source": "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex/Previews/Herricks Hub/Intermediates.noindex/Herricks Hub.build/Debug-iphonesimulator/Herricks Hub.build/Objects-normal/x86_64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Herricks Hub"
+      },
+      {
+        "comment": "",
+        "key": "GPA Calculator"
+      },
+      {
+        "comment": "",
+        "key": "Class Notes"
+      },
+      {
+        "comment": "",
+        "key": "Teacher Emails"
+      },
+      {
+        "comment": "",
+        "key": "Clubs"
+      },
+      {
+        "comment": "",
+        "key": "Zhou Tutoring"
+      }
+    ]
+  },
+  "version": 1
+}

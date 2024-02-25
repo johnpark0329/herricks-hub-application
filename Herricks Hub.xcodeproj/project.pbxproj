@@ -1,0 +1,602 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B631CD702B885D500051CB30 /* Herricks_HubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B631CD6F2B885D500051CB30 /* Herricks_HubApp.swift */; };
+		B631CD722B885D500051CB30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B631CD712B885D500051CB30 /* ContentView.swift */; };
+		B631CD742B885D530051CB30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B631CD732B885D530051CB30 /* Assets.xcassets */; };
+		B631CD772B885D530051CB30 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B631CD762B885D530051CB30 /* Preview Assets.xcassets */; };
+		B631CD812B885D540051CB30 /* Herricks_HubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B631CD802B885D540051CB30 /* Herricks_HubTests.swift */; };
+		B631CD8B2B885D540051CB30 /* Herricks_HubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B631CD8A2B885D540051CB30 /* Herricks_HubUITests.swift */; };
+		B631CD8D2B885D540051CB30 /* Herricks_HubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B631CD8C2B885D540051CB30 /* Herricks_HubUITestsLaunchTests.swift */; };
+		B66529A52B899DC100AA1688 /* Class Notes Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66529A42B899DC100AA1688 /* Class Notes Page.swift */; };
+		B66529A72B899ED900AA1688 /* Teacher Emails Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66529A62B899ED900AA1688 /* Teacher Emails Page.swift */; };
+		B66529A92B899F9A00AA1688 /* Clubs Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66529A82B899F9A00AA1688 /* Clubs Page.swift */; };
+		B66529AB2B89A0F800AA1688 /* Tutoring Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66529AA2B89A0F800AA1688 /* Tutoring Page.swift */; };
+		B68E8CA62B8994FE008E1448 /* GPA Calculator Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68E8CA52B8994FE008E1448 /* GPA Calculator Page.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B631CD7D2B885D540051CB30 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B631CD642B885D500051CB30 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B631CD6B2B885D500051CB30;
+			remoteInfo = "Herricks Hub";
+		};
+		B631CD872B885D540051CB30 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B631CD642B885D500051CB30 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B631CD6B2B885D500051CB30;
+			remoteInfo = "Herricks Hub";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B631CD6C2B885D500051CB30 /* Herricks Hub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Herricks Hub.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B631CD6F2B885D500051CB30 /* Herricks_HubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Herricks_HubApp.swift; sourceTree = "<group>"; };
+		B631CD712B885D500051CB30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B631CD732B885D530051CB30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B631CD762B885D530051CB30 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B631CD7C2B885D540051CB30 /* Herricks HubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Herricks HubTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B631CD802B885D540051CB30 /* Herricks_HubTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Herricks_HubTests.swift; sourceTree = "<group>"; };
+		B631CD862B885D540051CB30 /* Herricks HubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Herricks HubUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B631CD8A2B885D540051CB30 /* Herricks_HubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Herricks_HubUITests.swift; sourceTree = "<group>"; };
+		B631CD8C2B885D540051CB30 /* Herricks_HubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Herricks_HubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B66529A42B899DC100AA1688 /* Class Notes Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Class Notes Page.swift"; sourceTree = "<group>"; };
+		B66529A62B899ED900AA1688 /* Teacher Emails Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Teacher Emails Page.swift"; sourceTree = "<group>"; };
+		B66529A82B899F9A00AA1688 /* Clubs Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Clubs Page.swift"; sourceTree = "<group>"; };
+		B66529AA2B89A0F800AA1688 /* Tutoring Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tutoring Page.swift"; sourceTree = "<group>"; };
+		B68E8CA52B8994FE008E1448 /* GPA Calculator Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GPA Calculator Page.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B631CD692B885D500051CB30 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B631CD792B885D540051CB30 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B631CD832B885D540051CB30 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B631CD632B885D500051CB30 = {
+			isa = PBXGroup;
+			children = (
+				B631CD6E2B885D500051CB30 /* Herricks Hub */,
+				B631CD7F2B885D540051CB30 /* Herricks HubTests */,
+				B631CD892B885D540051CB30 /* Herricks HubUITests */,
+				B631CD6D2B885D500051CB30 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B631CD6D2B885D500051CB30 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B631CD6C2B885D500051CB30 /* Herricks Hub.app */,
+				B631CD7C2B885D540051CB30 /* Herricks HubTests.xctest */,
+				B631CD862B885D540051CB30 /* Herricks HubUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B631CD6E2B885D500051CB30 /* Herricks Hub */ = {
+			isa = PBXGroup;
+			children = (
+				B631CD6F2B885D500051CB30 /* Herricks_HubApp.swift */,
+				B631CD712B885D500051CB30 /* ContentView.swift */,
+				B66529AA2B89A0F800AA1688 /* Tutoring Page.swift */,
+				B66529A82B899F9A00AA1688 /* Clubs Page.swift */,
+				B66529A62B899ED900AA1688 /* Teacher Emails Page.swift */,
+				B68E8CA52B8994FE008E1448 /* GPA Calculator Page.swift */,
+				B66529A42B899DC100AA1688 /* Class Notes Page.swift */,
+				B631CD732B885D530051CB30 /* Assets.xcassets */,
+				B631CD752B885D530051CB30 /* Preview Content */,
+			);
+			path = "Herricks Hub";
+			sourceTree = "<group>";
+		};
+		B631CD752B885D530051CB30 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				B631CD762B885D530051CB30 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B631CD7F2B885D540051CB30 /* Herricks HubTests */ = {
+			isa = PBXGroup;
+			children = (
+				B631CD802B885D540051CB30 /* Herricks_HubTests.swift */,
+			);
+			path = "Herricks HubTests";
+			sourceTree = "<group>";
+		};
+		B631CD892B885D540051CB30 /* Herricks HubUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B631CD8A2B885D540051CB30 /* Herricks_HubUITests.swift */,
+				B631CD8C2B885D540051CB30 /* Herricks_HubUITestsLaunchTests.swift */,
+			);
+			path = "Herricks HubUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B631CD6B2B885D500051CB30 /* Herricks Hub */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B631CD902B885D540051CB30 /* Build configuration list for PBXNativeTarget "Herricks Hub" */;
+			buildPhases = (
+				B631CD682B885D500051CB30 /* Sources */,
+				B631CD692B885D500051CB30 /* Frameworks */,
+				B631CD6A2B885D500051CB30 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Herricks Hub";
+			productName = "Herricks Hub";
+			productReference = B631CD6C2B885D500051CB30 /* Herricks Hub.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B631CD7B2B885D540051CB30 /* Herricks HubTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B631CD932B885D540051CB30 /* Build configuration list for PBXNativeTarget "Herricks HubTests" */;
+			buildPhases = (
+				B631CD782B885D540051CB30 /* Sources */,
+				B631CD792B885D540051CB30 /* Frameworks */,
+				B631CD7A2B885D540051CB30 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B631CD7E2B885D540051CB30 /* PBXTargetDependency */,
+			);
+			name = "Herricks HubTests";
+			productName = "Herricks HubTests";
+			productReference = B631CD7C2B885D540051CB30 /* Herricks HubTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B631CD852B885D540051CB30 /* Herricks HubUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B631CD962B885D540051CB30 /* Build configuration list for PBXNativeTarget "Herricks HubUITests" */;
+			buildPhases = (
+				B631CD822B885D540051CB30 /* Sources */,
+				B631CD832B885D540051CB30 /* Frameworks */,
+				B631CD842B885D540051CB30 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B631CD882B885D540051CB30 /* PBXTargetDependency */,
+			);
+			name = "Herricks HubUITests";
+			productName = "Herricks HubUITests";
+			productReference = B631CD862B885D540051CB30 /* Herricks HubUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B631CD642B885D500051CB30 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					B631CD6B2B885D500051CB30 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					B631CD7B2B885D540051CB30 = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = B631CD6B2B885D500051CB30;
+					};
+					B631CD852B885D540051CB30 = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = B631CD6B2B885D500051CB30;
+					};
+				};
+			};
+			buildConfigurationList = B631CD672B885D500051CB30 /* Build configuration list for PBXProject "Herricks Hub" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B631CD632B885D500051CB30;
+			productRefGroup = B631CD6D2B885D500051CB30 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B631CD6B2B885D500051CB30 /* Herricks Hub */,
+				B631CD7B2B885D540051CB30 /* Herricks HubTests */,
+				B631CD852B885D540051CB30 /* Herricks HubUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B631CD6A2B885D500051CB30 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B631CD772B885D530051CB30 /* Preview Assets.xcassets in Resources */,
+				B631CD742B885D530051CB30 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B631CD7A2B885D540051CB30 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B631CD842B885D540051CB30 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B631CD682B885D500051CB30 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B631CD722B885D500051CB30 /* ContentView.swift in Sources */,
+				B66529A72B899ED900AA1688 /* Teacher Emails Page.swift in Sources */,
+				B66529A52B899DC100AA1688 /* Class Notes Page.swift in Sources */,
+				B68E8CA62B8994FE008E1448 /* GPA Calculator Page.swift in Sources */,
+				B66529AB2B89A0F800AA1688 /* Tutoring Page.swift in Sources */,
+				B631CD702B885D500051CB30 /* Herricks_HubApp.swift in Sources */,
+				B66529A92B899F9A00AA1688 /* Clubs Page.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B631CD782B885D540051CB30 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B631CD812B885D540051CB30 /* Herricks_HubTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B631CD822B885D540051CB30 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B631CD8B2B885D540051CB30 /* Herricks_HubUITests.swift in Sources */,
+				B631CD8D2B885D540051CB30 /* Herricks_HubUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B631CD7E2B885D540051CB30 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B631CD6B2B885D500051CB30 /* Herricks Hub */;
+			targetProxy = B631CD7D2B885D540051CB30 /* PBXContainerItemProxy */;
+		};
+		B631CD882B885D540051CB30 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B631CD6B2B885D500051CB30 /* Herricks Hub */;
+			targetProxy = B631CD872B885D540051CB30 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		B631CD8E2B885D540051CB30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B631CD8F2B885D540051CB30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B631CD912B885D540051CB30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Herricks Hub/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Armaan-s-Free-Tutoring.Herricks-Hub";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B631CD922B885D540051CB30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Herricks Hub/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Armaan-s-Free-Tutoring.Herricks-Hub";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B631CD942B885D540051CB30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Armaan-s-Free-Tutoring.Herricks-HubTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Herricks Hub.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Herricks Hub";
+			};
+			name = Debug;
+		};
+		B631CD952B885D540051CB30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Armaan-s-Free-Tutoring.Herricks-HubTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Herricks Hub.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Herricks Hub";
+			};
+			name = Release;
+		};
+		B631CD972B885D540051CB30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Armaan-s-Free-Tutoring.Herricks-HubUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Herricks Hub";
+			};
+			name = Debug;
+		};
+		B631CD982B885D540051CB30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Armaan-s-Free-Tutoring.Herricks-HubUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Herricks Hub";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B631CD672B885D500051CB30 /* Build configuration list for PBXProject "Herricks Hub" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B631CD8E2B885D540051CB30 /* Debug */,
+				B631CD8F2B885D540051CB30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B631CD902B885D540051CB30 /* Build configuration list for PBXNativeTarget "Herricks Hub" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B631CD912B885D540051CB30 /* Debug */,
+				B631CD922B885D540051CB30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B631CD932B885D540051CB30 /* Build configuration list for PBXNativeTarget "Herricks HubTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B631CD942B885D540051CB30 /* Debug */,
+				B631CD952B885D540051CB30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B631CD962B885D540051CB30 /* Build configuration list for PBXNativeTarget "Herricks HubUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B631CD972B885D540051CB30 /* Debug */,
+				B631CD982B885D540051CB30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B631CD642B885D500051CB30 /* Project object */;
+}

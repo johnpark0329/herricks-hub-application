@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "eba1e12589745aa04f93b9c48657bdedad19340e2f61de3b015f9e9a472cd31c"
+build_start_time: [1708743497, 341099023]
+build_end_time: [1708743510, 750015974]
+inputs:
+  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/ContentView.swift": [1708743494, 0]
+  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Herricks_HubApp.swift": [1708664534, 0]

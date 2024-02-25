@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "9058b54ecc66b32bc8d1539d585dea80e972ce1dbb728d96755dac96bc51840d"
+    }
+  ],
+  "containerPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub",
+      "indexDataStoreFolderPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

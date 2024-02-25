@@ -1,0 +1,103 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "9058b54ecc66b32bc8d1539d585dea80e972ce1dbb728d96755dac96bc51840d",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Products",
+          "derivedDataPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub",
+          "indexDataStoreFolderPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex/Previews/Herricks Hub/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex/Previews/Herricks Hub/Intermediates.noindex",
+              "SYMROOT" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex/Previews/Herricks Hub/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "5A5DDD15-64D4-46DD-B597-3EDA5367D884",
+              "TARGET_DEVICE_MODEL" : "iPhone14,7",
+              "TARGET_DEVICE_OS_VERSION" : "16.0",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Products",
+      "derivedDataPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub",
+      "indexDataStoreFolderPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks_Hub-gdinygkqrzlviyewpmighkmrzwmx/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "5A5DDD15-64D4-46DD-B597-3EDA5367D884",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

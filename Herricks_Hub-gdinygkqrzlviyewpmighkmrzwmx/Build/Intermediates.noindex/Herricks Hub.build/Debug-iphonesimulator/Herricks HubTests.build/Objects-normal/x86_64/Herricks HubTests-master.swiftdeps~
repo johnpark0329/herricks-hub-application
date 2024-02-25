@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "7bcc190026a7aeb4e000e789f6f45c60d046ecfa16ee976494e8effb707e6f6a"
+build_start_time: [1708747285, 109155178]
+build_end_time: [1708747285, 213564872]
+inputs:
+  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks HubTests/Herricks_HubTests.swift": !private [1708664276, 0]

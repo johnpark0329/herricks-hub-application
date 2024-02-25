@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Herricks Hub in Herricks Hub, no dependencies
+Herricks HubTests in Herricks Hub, depends on:
+Herricks Hub in Herricks Hub (explicit)
+Herricks HubUITests in Herricks Hub, depends on:
+Herricks Hub in Herricks Hub (explicit)
