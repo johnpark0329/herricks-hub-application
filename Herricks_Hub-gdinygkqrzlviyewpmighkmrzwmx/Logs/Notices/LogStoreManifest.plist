@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>00908186-6889-426C-B92F-1FD9EC68FC1A</key>
+		<key>32FCCB11-E15A-42FE-BBCE-1121CFB7DBAC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,91 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>00908186-6889-426C-B92F-1FD9EC68FC1A.xcactivitylog</string>
+			<string>32FCCB11-E15A-42FE-BBCE-1121CFB7DBAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9QQVJLXC9IZXJyaWNrcyBIdWIgQXBwbGljYXRpb25cL0hlcnJpY2tzIEh1YlwvSGVycmlja3MgSHViLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQjYzMUNENkIyQjg4NUQ1MDAwNTFDQjMwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>730531162.67507899</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Herricks Hub</string>
+			<key>uniqueIdentifier</key>
+			<string>32FCCB11-E15A-42FE-BBCE-1121CFB7DBAC</string>
+		</dict>
+		<key>3654A607-DFDB-4706-993A-7809333486DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3654A607-DFDB-4706-993A-7809333486DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9QQVJLXC9IZXJyaWNrcyBIdWIgQXBwbGljYXRpb25cL0hlcnJpY2tzIEh1YlwvSGVycmlja3MgSHViLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQjYzMUNENkIyQjg4NUQ1MDAwNTFDQjMwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>730441517.83385205</real>
+			<key>timeStoppedRecording</key>
+			<real>730441524.714553</real>
+			<key>title</key>
+			<string>Build Herricks Hub</string>
+			<key>uniqueIdentifier</key>
+			<string>3654A607-DFDB-4706-993A-7809333486DC</string>
+		</dict>
+		<key>382E889D-3E25-42CB-AE81-526C3587657B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>382E889D-3E25-42CB-AE81-526C3587657B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9QQVJLXC9IZXJyaWNrcyBIdWIgQXBwbGljYXRpb25cL0hlcnJpY2tzIEh1YlwvSGVycmlja3MgSHViLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQjYzMUNENkIyQjg4NUQ1MDAwNTFDQjMwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>730531213.43182898</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Herricks Hub</string>
+			<key>uniqueIdentifier</key>
+			<string>382E889D-3E25-42CB-AE81-526C3587657B</string>
+		</dict>
+		<key>4432B2F2-E87A-491B-900B-0C75957BF576</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4432B2F2-E87A-491B-900B-0C75957BF576.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,9 +116,9 @@
 			<key>title</key>
 			<string>Build Herricks Hub</string>
 			<key>uniqueIdentifier</key>
-			<string>00908186-6889-426C-B92F-1FD9EC68FC1A</string>
+			<string>4432B2F2-E87A-491B-900B-0C75957BF576</string>
 		</dict>
-		<key>41E14D9C-A821-4A94-9A3C-49FBCB4EFAB1</key>
+		<key>564CE66C-7B0C-4BBA-A039-08F805B0EB53</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -43,7 +127,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>41E14D9C-A821-4A94-9A3C-49FBCB4EFAB1.xcactivitylog</string>
+			<string>564CE66C-7B0C-4BBA-A039-08F805B0EB53.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -60,9 +144,9 @@
 			<key>title</key>
 			<string>Build Herricks Hub</string>
 			<key>uniqueIdentifier</key>
-			<string>41E14D9C-A821-4A94-9A3C-49FBCB4EFAB1</string>
+			<string>564CE66C-7B0C-4BBA-A039-08F805B0EB53</string>
 		</dict>
-		<key>42D402C1-98BD-48BD-AB28-A34680ACADA3</key>
+		<key>5C769B0E-DEB0-4F8F-B9B6-C696533FE4DC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -71,7 +155,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>42D402C1-98BD-48BD-AB28-A34680ACADA3.xcactivitylog</string>
+			<string>5C769B0E-DEB0-4F8F-B9B6-C696533FE4DC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -80,17 +164,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9QQVJLXC9IZXJyaWNrcyBIdWIgQXBwbGljYXRpb25cL0hlcnJpY2tzIEh1YlwvSGVycmlja3MgSHViLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQjYzMUNENkIyQjg4NUQ1MDAwNTFDQjMwIn0=</string>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>730441517.83385205</real>
+			<real>730531162.67507899</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build Herricks Hub</string>
+			<string>Build for Previews Herricks Hub</string>
 			<key>uniqueIdentifier</key>
-			<string>42D402C1-98BD-48BD-AB28-A34680ACADA3</string>
+			<string>5C769B0E-DEB0-4F8F-B9B6-C696533FE4DC</string>
 		</dict>
-		<key>7DC91568-29B1-422F-B627-1E783CFA2233</key>
+		<key>B00B0B92-6CF5-43BF-9CA1-3B31D40F670E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,7 +183,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7DC91568-29B1-422F-B627-1E783CFA2233.xcactivitylog</string>
+			<string>B00B0B92-6CF5-43BF-9CA1-3B31D40F670E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -108,7 +192,63 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9QQVJLXC9IZXJyaWNrcyBIdWIgQXBwbGljYXRpb25cL0hlcnJpY2tzIEh1YlwvSGVycmlja3MgSHViLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQjYzMUNENkIyQjg4NUQ1MDAwNTFDQjMwIn0=</string>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1BBUktcL0hlcnJpY2tzIEh1YiBBcHBsaWNhdGlvblwvSGVycmlja3MgSHViXC9IZXJyaWNrcyBIdWIueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>730531162.67507899</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Herricks Hub</string>
+			<key>uniqueIdentifier</key>
+			<string>B00B0B92-6CF5-43BF-9CA1-3B31D40F670E</string>
+		</dict>
+		<key>B6DDEF3F-9A23-469D-90B7-9137322BA04C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6DDEF3F-9A23-469D-90B7-9137322BA04C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1BBUktcL0hlcnJpY2tzIEh1YiBBcHBsaWNhdGlvblwvSGVycmlja3MgSHViXC9IZXJyaWNrcyBIdWIueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>730531213.43182898</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Herricks Hub</string>
+			<key>uniqueIdentifier</key>
+			<string>B6DDEF3F-9A23-469D-90B7-9137322BA04C</string>
+		</dict>
+		<key>E11CC17D-BED7-4CEA-BC78-C990450C646A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E11CC17D-BED7-4CEA-BC78-C990450C646A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
 			<real>730441517.83385205</real>
 			<key>timeStoppedRecording</key>
@@ -116,7 +256,35 @@
 			<key>title</key>
 			<string>Build Herricks Hub</string>
 			<key>uniqueIdentifier</key>
-			<string>7DC91568-29B1-422F-B627-1E783CFA2233</string>
+			<string>E11CC17D-BED7-4CEA-BC78-C990450C646A</string>
+		</dict>
+		<key>EDDE83A1-A5D8-431C-9DEB-C233480927A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EDDE83A1-A5D8-431C-9DEB-C233480927A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>730531213.43182898</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Herricks Hub</string>
+			<key>uniqueIdentifier</key>
+			<string>EDDE83A1-A5D8-431C-9DEB-C233480927A0</string>
 		</dict>
 	</dict>
 </dict>

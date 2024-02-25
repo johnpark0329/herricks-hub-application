@@ -1,12 +1,12 @@
 version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
-options: "f65a41ff0a60976a7cef1e03696cd2bafd21f0b5bb169ae92cddd93cf5d137e0"
-build_start_time: [1708748436, 172252178]
-build_end_time: [1708748438, 335016965]
+options: "7710f771d1dd65b9c05fd80fb57f17dfb5a726250881cad6c49e4df35764cb08"
+build_start_time: [1708838413, 580098152]
+build_end_time: [1708838416, 2786159]
 inputs:
   "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Class Notes Page.swift": [1708747042, 0]
   "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Clubs Page.swift": [1708747066, 0]
-  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/ContentView.swift": [1708748434, 0]
+  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/ContentView.swift": [1708838082, 0]
   "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/GPA Calculator Page.swift": [1708747056, 0]
   "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Herricks_HubApp.swift": [1708664534, 0]
-  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Teacher Emails Page.swift": [1708747078, 0]
+  "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Teacher Emails Page.swift": [1708831046, 0]
   "/Volumes/PARK/Herricks Hub Application/Herricks Hub/Herricks Hub/Tutoring Page.swift": [1708747212, 0]
